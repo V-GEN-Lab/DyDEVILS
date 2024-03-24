@@ -27,5 +27,6 @@
     "accession": "NC_001477",
     "source": "genbank",
     "strainName": "NC_001477.1 Dengue virus 1, complete genome"
-  }
+  },
+  "tag": "v01"
 }
