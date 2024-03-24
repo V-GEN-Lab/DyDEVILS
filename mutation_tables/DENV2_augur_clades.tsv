@@ -1,0 +1,412 @@
+"clade"	"gene"	"site"	"alt"
+			
+"2I"	"E"	71	"D"
+"2I"	"E"	81	"T"
+"2I"	"E"	129	"I"
+"2I"	"NS1"	21	"V"
+"2I"	"NS1"	73	"S"
+"2I"	"NS1"	99	"V"
+"2I"	"NS1"	170	"R"
+			
+"2III"	"E"	491	"A"
+"2III"	"M"	15	"G"
+"2III"	"M"	39	"I"
+			
+"2V"	"E"	484	"I"
+"2V"	"NS1"	222	"N"
+"2V"	"NS5"	687	"I"
+			
+"2IV"	"NS1"	51	"Q"
+"2IV"	"NS2A"	142	"R"
+"2IV"	"NS3"	160	"S"
+			
+"2II"	"E"	71	"A"
+"2II"	"E"	149	"N"
+"2II"	"E"	462	"V"
+			
+"2S"	"E"	59	"F"
+"2S"	"E"	236	"M"
+"2S"	"E"	432	"V"
+			
+"2II.D"	"clade"	"2II"	
+"2II.D"	"NS1"	272	"R"
+"2II.D"	"NS4B"	19	"T"
+			
+"2II.D.10"	"clade"	"2II.D"	
+"2II.D.10"	"NS3"	15	"R"
+			
+"2II.D.10.1"	"clade"	"2II.D.10"	
+"2II.D.10.1"	"NS5"	176	"I"
+			
+"2II.D.10.1.1"	"clade"	"2II.D.10.1"	
+"2II.D.10.1.1"	"NS5"	749	"Q"
+			
+"2II.D.A.1"	"clade"	"2II.D.10.1.1"	
+"2II.D.A.1"	"NS4B"	244	"V"
+			
+"2II.D.A.2"	"clade"	"2II.D.10.1.1"	
+"2II.D.A.2"	"M"	31	"M"
+"2II.D.A.2"	"NS5"	135	"I"
+"2II.D.A.2"	"pr"	31	"M"
+			
+"2II.D.A.3"	"clade"	"2II.D.10.1.1"	
+"2II.D.A.3"	"E"	149	"H"
+"2II.D.A.3"	"E"	37	"T"
+"2II.D.A.3"	"E"	38	"R"
+"2II.D.A.3"	"NS1"	192	"K"
+			
+"2II.D.A.4"	"clade"	"2II.D.10.1.1"	
+"2II.D.A.4"	"NS2A"	33	"T"
+"2II.D.A.4"	"NS3"	248	"K"
+"2II.D.A.4"	"NS3"	567	"I"
+			
+"2II.D.10.1.2"	"clade"	"2II.D.10.1"	
+"2II.D.10.1.2"	"NS2A"	109	"A"
+			
+"2II.D.B.1"	"clade"	"2II.D.10.1.2"	
+"2II.D.B.1"	"NS5"	831	"A"
+			
+"2II.D.10.2"	"clade"	"2II.D.10"	
+"2II.D.10.2"	"C"	105	"V"
+"2II.D.10.2"	"M"	139	"F"
+"2II.D.10.2"	"NS5"	585	"S"
+			
+"2II.D.10.3"	"clade"	"2II.D.10"	
+"2II.D.10.3"	"E"	322	"V"
+"2II.D.10.3"	"NS5"	247	"Y"
+"2II.D.10.3"	"NS5"	826	"E"
+			
+"2II.D.10.3.1"	"clade"	"2II.D.10.3"	
+"2II.D.10.3.1"	"NS5"	556	"Y"
+			
+"2II.D.10.4"	"clade"	"2II.D.10"	
+"2II.D.10.4"	"NS5"	892	"D"
+			
+"2II.D.10.4.1"	"clade"	"2II.D.10.4"	
+"2II.D.10.4.1"	"NS4B"	18	"T"
+"2II.D.10.4.1"	"NS5"	254	"L"
+			
+"2II.D.10.5"	"clade"	"2II.D.10"	
+"2II.D.10.5"	"E"	90	"Y"
+			
+"2II.D.10.6"	"clade"	"2II.D.10"	
+"2II.D.10.6"	"NS3"	248	"K"
+"2II.D.10.6"	"NS3"	568	"R"
+"2II.D.10.6"	"NS5"	46	"R"
+"2II.D.10.6"	"NS5"	585	"S"
+			
+"2II.D.10.7"	"clade"	"2II.D.10"	
+"2II.D.10.7"	"NS5"	559	"R"
+"2II.D.10.7"	"NS5"	608	"A"
+"2II.D.10.7"	"NS5"	826	"E"
+			
+"2II.D.10.8"	"clade"	"2II.D.10"	
+"2II.D.10.8"	"NS3"	172	"T"
+"2II.D.10.8"	"NS5"	826	"E"
+			
+"2II.D.5"	"clade"	"2II.D"	
+"2II.D.5"	"NS2A"	83	"I"
+			
+"2II.D.5.1"	"clade"	"2II.D.5"	
+"2II.D.5.1"	"NS5"	136	"S"
+			
+"2II.D.6"	"clade"	"2II.D"	
+"2II.D.6"	"E"	164	"I"
+"2II.D.6"	"NS2A"	153	"S"
+			
+"2II.D.7"	"clade"	"2II.D"	
+"2II.D.7"	"NS2A"	171	"I"
+			
+"2II.D.7.1"	"clade"	"2II.D.7"	
+"2II.D.7.1"	"NS4B"	24	"D"
+			
+"2II.D.9"	"clade"	"2II.D"	
+"2II.D.9"	"NS1"	247	"L"
+"2II.D.9"	"NS2A"	30	"R"
+"2II.D.9"	"NS2A"	33	"T"
+"2II.D.9"	"NS2A"	171	"I"
+"2II.D.9"	"NS5"	271	"I"
+			
+"2II.D.9.1"	"clade"	"2II.D.9"	
+"2II.D.9.1"	"E"	347	"I"
+"2II.D.9.1"	"NS3"	395	"V"
+"2II.D.9.1"	"NS4B"	13	"L"
+"2II.D.9.1"	"NS5"	556	"Y"
+			
+"2II.D.3"	"clade"	"2II.D"	
+"2II.D.3"	"NS4B"	19	"A"
+"2II.D.3"	"M"	73	"A"
+"2II.D.3"	"NS1"	177	"A"
+			
+"2II.D.3.1"	"clade"	"2II.D.3"	
+"2II.D.3.1"	"E"	52	"Y"
+"2II.D.3.1"	"E"	129	"I"
+			
+"2II.D.2"	"clade"	"2II.D"	
+"2II.D.2"	"NS1"	117	"T"
+"2II.D.2"	"NS2A"	63	"A"
+"2II.D.2"	"NS2A"	116	"M"
+"2II.D.2"	"NS4B"	18	"T"
+			
+"2II.D.2.1"	"clade"	"2II.D.2"	
+"2II.D.2.1"	"NS3"	499	"S"
+"2II.D.2.1"	"NS4A"	63	"A"
+"2II.D.2.1"	"NS5"	763	"N"
+			
+"2II.D.4"	"clade"	"2II.D"	
+"2II.D.4"	"NS2A"	162	"E"
+			
+"2II.D.1"	"clade"	"2II.D"	
+"2II.D.1"	"NS5"	524	"M"
+			
+"2II.D.8"	"clade"	"2II.D"	
+"2II.D.8"	"M"	161	"I"
+"2II.D.8"	"NS3"	392	"T"
+			
+"2III.C"	"clade"	"2III"	
+"2III.C"	"NS4B"	156	"E"
+			
+"2III.C.4"	"clade"	"2III.C"	
+"2III.C.4"	"E"	340	"T"
+			
+"2III.C.4.1"	"clade"	"2III.C.4"	
+"2III.C.4.1"	"NS5"	895	"K"
+"2III.C.4.1"	"NS1"	153	"M"
+			
+"2III.C.4.1.1"	"clade"	"2III.C.4.1"	
+"2III.C.4.1.1"	"C"	90	"K"
+"2III.C.4.1.1"	"NS5"	375	"E"
+			
+"2III.C.4.1.2"	"clade"	"2III.C.4.1"	
+"2III.C.4.1.2"	"E"	491	"V"
+"2III.C.4.1.2"	"NS5"	763	"N"
+			
+"2III.C.4.1.3"	"clade"	"2III.C.4.1"	
+"2III.C.4.1.3"	"NS2B"	71	"S"
+"2III.C.4.1.3"	"E"	390	"S"
+			
+"2III.C.4.1.4"	"clade"	"2III.C.4.1"	
+"2III.C.4.1.4"	"E"	443	"V"
+"2III.C.4.1.4"	"NS5"	836	"I"
+"2III.C.4.1.4"	"NS5"	891	"K"
+			
+"2III.C.4.1.5"	"clade"	"2III.C.4.1"	
+"2III.C.4.1.5"	"NS2B"	87	"R"
+			
+"2III.C.4.2"	"clade"	"2III.C.4"	
+"2III.C.4.2"	"NS2A"	133	"A"
+"2III.C.4.2"	"NS4A"	42	"T"
+"2III.C.4.2"	"NS5"	878	"G"
+"2III.C.4.2"	"NS5"	388	"E"
+			
+"2III.C.4.2.1"	"clade"	"2III.C.4.2"	
+"2III.C.4.2.1"	"NS5"	811	"V"
+"2III.C.4.2.1"	"NS5"	277	"V"
+			
+"2III.C.4.2.2"	"clade"	"2III.C.4.2"	
+"2III.C.4.2.2"	"NS5"	874	"M"
+			
+"2III.C.4.2.3"	"clade"	"2III.C.4.2"	
+"2III.C.4.2.3"	"NS5"	687	"I"
+			
+"2III.C.A.1"	"clade"	"2III.C.4.2.3"	
+"2III.C.A.1"	"NS1"	164	"S"
+			
+"2III.C.4.3"	"clade"	"2III.C.4"	
+"2III.C.4.3"	"NS5"	196	"A"
+			
+"2III.C.4.3.1"	"clade"	"2III.C.4.3"	
+"2III.C.4.3.1"	"NS4B"	156	"D"
+"2III.C.4.3.1"	"NS2A"	94	"K"
+"2III.C.4.3.1"	"NS5"	201	"H"
+"2III.C.4.3.1"	"NS5"	641	"T"
+			
+"2III.C.4.3.2"	"clade"	"2III.C.4.3"	
+"2III.C.4.3.2"	"NS4B"	156	"D"
+"2III.C.4.3.2"	"NS1"	141	"T"
+"2III.C.4.3.2"	"NS3"	567	"V"
+"2III.C.4.3.2"	"NS5"	271	"T"
+			
+"2III.C.4.4"	"clade"	"2III.C.4"	
+"2III.C.4.4"	"NS1"	47	"L"
+"2III.C.4.4"	"NS2A"	174	"V"
+			
+"2III.C.4.4.1"	"clade"	"2III.C.4.4"	
+"2III.C.4.4.1"	"NS5"	645	"S"
+			
+"2III.C.4.5"	"clade"	"2III.C.4"	
+"2III.C.4.5"	"E"	382	"A"
+"2III.C.4.5"	"M"	152	"V"
+"2III.C.4.5"	"NS3"	171	"N"
+"2III.C.4.5"	"NS5"	501	"E"
+"2III.C.4.5"	"NS5"	531	"F"
+			
+"2III.C.3"	"clade"	"2III.C"	
+"2III.C.3"	"E"	491	"V"
+"2III.C.3"	"NS4A"	36	"V"
+"2III.C.3"	"NS4B"	175	"V"
+			
+"2III.C.3.1"	"clade"	"2III.C.3"	
+"2III.C.3.1"	"NS4B"	19	"I"
+			
+"2III.C.2"	"clade"	"2III.C"	
+"2III.C.2"	"NS2A"	33	"M"
+			
+"2III.C.1"	"clade"	"2III.C"	
+"2III.C.1"	"E"	203	"E"
+"2III.C.1"	"M"	134	"A"
+"2III.C.1"	"NS2A"	162	"L"
+			
+"2III.C.1.1"	"clade"	"2III.C.1"	
+"2III.C.1.1"	"E"	160	"E"
+"2III.C.1.1"	"NS2A"	62	"V"
+"2III.C.1.1"	"NS2A"	189	"T"
+			
+"2III.C.1.1.1"	"clade"	"2III.C.1.1"	
+"2III.C.1.1.1"	"NS2A"	109	"T"
+"2III.C.1.1.1"	"NS3"	461	"V"
+			
+"2V.O"	"clade"	"2V"	
+"2V.O"	"NS1"	246	"S"
+"2V.O"	"NS5"	286	"E"
+"2V.O"	"NS5"	628	"I"
+			
+"2V.E"	"clade"	"2V"	
+"2V.E"	"E"	160	"Q"
+"2V.E"	"NS5"	5	"M"
+			
+"2V.E.2"	"clade"	"2V.E"	
+"2V.E.2"	"NS1"	278	"N"
+"2V.E.2"	"NS3"	577	"M"
+"2V.E.2"	"NS4B"	21	"R"
+"2V.E.2"	"NS4B"	175	"V"
+			
+"2V.E.2.1"	"clade"	"2V.E.2"	
+"2V.E.2.1"	"NS4B"	21	"Q"
+"2V.E.2.1"	"NS5"	542	"V"
+			
+"2V.E.1"	"clade"	"2V.E"	
+"2V.E.1"	"NS2A"	24	"K"
+			
+"2V.B"	"clade"	"2V"	
+"2V.B"	"NS1"	94	"R"
+"2V.B"	"NS5"	644	"H"
+			
+"2V.D"	"clade"	"2V"	
+"2V.D"	"NS1"	170	"R"
+"2V.D"	"NS1"	129	"H"
+"2V.D"	"NS5"	5	"M"
+			
+"2V.C"	"clade"	"2V"	
+"2V.C"	"NS1"	141	"T"
+"2V.C"	"nuc"	399	"G"
+			
+"2V.L"	"clade"	"2V"	
+"2V.L"	"NS1"	256	"H"
+"2V.L"	"NS3"	73	"R"
+"2V.L"	"NS5"	637	"A"
+			
+"2V.M"	"clade"	"2V"	
+"2V.M"	"C"	107	"T"
+			
+"2V.J"	"clade"	"2V"	
+"2V.J"	"C"	102	"V"
+"2V.J"	"NS3"	31	"F"
+"2V.J"	"NS5"	301	"R"
+			
+"2V.H"	"clade"	"2V"	
+"2V.H"	"NS1"	224	"Y"
+"2V.H"	"NS2A"	116	"M"
+"2V.H"	"NS2A"	139	"S"
+			
+"2V.I"	"clade"	"2V"	
+"2V.I"	"NS2A"	158	"T"
+"2V.I"	"NS5"	301	"R"
+			
+"2V.N"	"clade"	"2V"	
+"2V.N"	"NS1"	177	"T"
+			
+"2V.G"	"clade"	"2V"	
+"2V.G"	"E"	432	"M"
+"2V.G"	"NS1"	281	"E"
+"2V.G"	"NS2A"	29	"M"
+"2V.G"	"NS3"	13	"V"
+"2V.G"	"NS4B"	68	"V"
+"2V.G"	"NS5"	386	"R"
+			
+"2V.F"	"clade"	"2V"	
+"2V.F"	"NS1"	174	"R"
+"2V.F"	"NS2A"	104	"A"
+"2V.F"	"NS2A"	158	"T"
+"2V.F"	"NS2B"	57	"A"
+"2V.F"	"NS3"	120	"N"
+"2V.F"	"NS4B"	48	"I"
+"2V.F"	"NS4B"	115	"I"
+			
+"2V.K"	"clade"	"2V"	
+"2V.K"	"NS4B"	16	"V"
+"2V.K"	"NS5"	865	"V"
+			
+"2II.A"	"clade"	"2II"	
+"2II.A"	"NS2A"	63	"A"
+"2II.A"	"NS2A"	133	"I"
+			
+"2II.A.1"	"clade"	"2II.A"	
+"2II.A.1"	"NS1"	261	"P"
+			
+"2II.A.2"	"clade"	"2II.A"	
+"2II.A.2"	"NS5"	174	"T"
+			
+"2II.A.3"	"clade"	"2II.A"	
+"2II.A.3"	"E"	162	"V"
+"2II.A.3"	"NS2B"	119	"V"
+			
+"2II.A.3.1"	"clade"	"2II.A.3"	
+"2II.A.3.1"	"NS5"	641	"T"
+			
+"2II.C"	"clade"	"2II"	
+"2II.C"	"C"	104	"V"
+"2II.C"	"NS4A"	93	"V"
+"2II.C"	"E"	164	"V"
+			
+"2II.C.1"	"clade"	"2II.C"	
+"2II.C.1"	"NS5"	273	"D"
+			
+"2II.C.2"	"clade"	"2II.C"	
+"2II.C.2"	"NS5"	271	"T"
+			
+"2II.C.2.1"	"clade"	"2II.C.2"	
+"2II.C.2.1"	"E"	46	"I"
+			
+"2II.B"	"clade"	"2II"	
+"2II.B"	"NS4B"	18	"V"
+"2II.B"	"NS5"	269	"N"
+			
+"2II.B.1"	"clade"	"2II.B"	
+"2II.B.1"	"NS2A"	58	"I"
+			
+"2II.B.2"	"clade"	"2II.B"	
+"2II.B.2"	"NS5"	294	"H"
+			
+"2III.B"	"clade"	"2III"	
+"2III.B"	"NS5"	96	"D"
+"2III.B"	"NS5"	628	"V"
+"2III.B"	"NS5"	634	"R"
+			
+"2III.A"	"clade"	"2III"	
+"2III.A"	"E"	461	"A"
+"2III.A"	"NS5"	563	"R"
+"2III.A"	"NS5"	698	"K"
+			
+"2V.A"	"clade"	"2V"	
+"2V.A"	"NS2A"	139	"D"
+"2V.A"	"NS3"	177	"D"
+			
+"2V.A.1"	"clade"	"2V.A"	
+"2V.A.1"	"E"	484	"V"
+"2V.A.1"	"NS5"	865	"V"
+			
+"2I.A"	"clade"	"2I"	
+"2I.A"	"NS1"	290	"E"
+"2I.A"	"NS4B"	17	"H"
+"2I.A"	"NS5"	429	"N"
