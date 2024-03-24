@@ -1,0 +1,32 @@
+{
+  "comment": "",
+  "compatibility": {
+    "nextcladeCli": {
+      "max": null,
+      "min": "2.13.1"
+    },
+    "nextcladeWeb": {
+      "max": null,
+      "min": "1.13.0"
+    }
+  },
+  "enabled": true,
+  "files": {
+    "geneMap": "genemap.gff",
+    "primers": "primers.csv",
+    "qc": "qc.json",
+    "reference": "reference.fasta",
+    "sequences": "sequences.fasta",
+    "tree": "tree.json",
+    "virusPropertiesJson": "virus_properties.json"
+  },
+  "metadata": {},
+  "name": "denv-1",
+  "nameFriendly": "DENV-1",
+  "reference": {
+    "accession": "NC_001477",
+    "source": "genbank",
+    "strainName": "NC_001477.1 Dengue virus 1, complete genome"
+  },
+  "tag": "2024-01-15T12:00:00Z"
+}
