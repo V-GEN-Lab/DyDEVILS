@@ -1,4 +1,4 @@
-# denvLineages - Deciphering intra-genotype genetic diversity of Dengue virus serotypes 1 and 2: Using a semi-automatic workflow for proposing a lineage classification system
+# denvLineages - Proposing a Systematic Lineage Classification Below the Genotype Level for Dengue Serotypes 1 and 2 
 
 This repository contains the result of using a semi-automatic workflow for classifying Dengue virus (DENV) based on complete genome sequences. It addresses the current limitations in sub-genotype classification, offering a more granular and standardized system compared to traditional methods.
 
