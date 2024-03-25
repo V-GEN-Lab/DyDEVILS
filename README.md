@@ -34,3 +34,6 @@ Suppervised by:
 denvLineages was developed using free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 denvLineages is distributed in the hope that it will be useful, but **without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose**. See the GNU General Public License for more details: http://www.gnu.org/licenses/.
+
+## Acknowledgements
+Funding for this work was provided by Fundação Butantan and the São Paulo Research Foundation (FAPESP) through grant number 21/11944-6, titled "Continuous improvement of vaccines: Center for Viral Surveillance and Serological Assessment (CeVIVAS)". We express our sincere gratitude to all researchers who deposited their sequences on GISAID, particularly those affiliated with the Central Public Health Laboratories (LACEN) from the Brazilian States of Alagoas, Pará, and Paraná. We are also grateful to São Paulo City Hall. These partners are instrumental to the success of the CeVIVAS project.
