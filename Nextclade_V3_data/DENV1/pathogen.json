@@ -3,9 +3,9 @@
     "retry_reverse_complement": true
   },
   "attributes": {
-    "name": "DENV-1",
-    "refAccession": "NC_001477",
-    "refName": "NC_001477"
+    "name": "DENV-1 Lineages",
+    "reference accession": "NC_001477",
+    "reference name": "NC_001477"
   },
   "compatibility": {
     "cli": "3.0.0-alpha.0",
