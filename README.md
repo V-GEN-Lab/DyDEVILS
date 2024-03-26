@@ -29,7 +29,7 @@ Suppervised by:
 * Alex Ranieri J. Lima 
 * Svetoslav Nanev Slavov
 * Maria Carolina Quartim Barbosa Elias Sabbaga
-* Sandra Coccuzzo Sampaio Vessoni 
+* Sandra Coccuzzo Sampaio 
 
 denvLineages was developed using free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
