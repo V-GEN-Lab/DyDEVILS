@@ -7,7 +7,7 @@ This repository contains the result of using a semi-automatic workflow for class
 To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV1) and [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV2) were constructed.
 
 ## Downloading dataset to be used with Nextclade CLI
-Users can download the datasets from this repository, located in the folder `Nextclade_V2_data`, to perform offline analysis using Nextclade CLI V2.14.0.
+Users can download the datasets from this repository, located in the folder `Nextclade_V3_data`, to perform offline analysis using Nextclade CLI V3.3.1.
 
 ## Future implementations
 
