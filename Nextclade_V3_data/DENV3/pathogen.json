@@ -3,9 +3,9 @@
     "retry_reverse_complement": true
   },
   "attributes": {
-    "name": "UNKNOWN",
-    "refAccession": "UNKNOWN",
-    "refName": "UNKNOWN"
+    "name": "DENV-3",
+    "reference accession": "NC_001475",
+    "reference name": "NC_001475"
   },
   "compatibility": {
     "cli": "3.0.0-alpha.0",
@@ -22,8 +22,8 @@
     "treeJson": "tree.json"
   },
   "meta": {
-    "bugs": "https://github.com/nextstrain/nextclade_data/issues",
-    "source code": "https://github.com/nextstrain/nextclade_data"
+    "bugs": "https://github.com/alex-ranieri/denvLineages/issues",
+    "source code": "https://github.com/alex-ranieri/denvLineages"
   },
   "qc": {
     "frameShifts": {
