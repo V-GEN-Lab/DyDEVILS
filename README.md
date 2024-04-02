@@ -1,20 +1,21 @@
-# denvLineages - Proposing a Systematic Lineage Classification Below the Genotype Level for Dengue Serotypes 1 and 2 
+# denvLineages - Proposing a Systematic Lineage Classification Below the Genotype Level for Dengue Serotypes (1, 2, 3 and 4)
 
 This repository contains the result of using a semi-automatic workflow for classifying Dengue virus (DENV) based on complete genome sequences. It addresses the current limitations in sub-genotype classification, offering a more granular and standardized system compared to traditional methods.
 Check our preprint at https://doi.org/10.1101/2024.03.25.586629
 
 ## Using Nextclade web app to assign lineages
 
-To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV1) and [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV2) were constructed.
+To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV1), [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV2), [DENV-3](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV3), and [DENV-4](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV4) were constructed.
 
 ## Downloading dataset to be used with Nextclade CLI
 Users can download the datasets from this repository, located in the folder `Nextclade_V3_data`, to perform offline analysis using Nextclade CLI V3.3.1.
 
 ## Future implementations
 
- - [ ] Apply the proposed DENV lineage classification system to DENV-3 and DENV-4. This expansion will create a comprehensive framework for DENV lineage designation encompassing all four serotypes.
+ - [X] Apply the proposed DENV lineage classification system to DENV-3 and DENV-4. This expansion will create a comprehensive framework for DENV lineage designation encompassing all four serotypes.
  - [ ] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/alex-ranieri/viper) assembly pipeline  is planned.
  - [X] Upgrade datasets to ensure compatibility with Nextclade V3.
+ - [ ] Add lineage cladogram for better lineage system visualization. 
 
  ## Copyright and licence
 
