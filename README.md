@@ -10,10 +10,13 @@ To promote the widespread adoption of the proposed DENV lineage classification s
 ## Downloading dataset to be used with Nextclade CLI
 Users can download the datasets from this repository, located in the folder `Nextclade_V3_data`, to perform offline analysis using Nextclade CLI V3.3.1.
 
+## Guideline to propose new lineages
+Users can propose new lineages [following these steps](proposing-new-lineages-guideline/README.md).
+
 ## Future implementations
 
  - [X] Apply the proposed DENV lineage classification system to DENV-3 and DENV-4. This expansion will create a comprehensive framework for DENV lineage designation encompassing all four serotypes.
- - [ ] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/alex-ranieri/viper) assembly pipeline  is planned.
+ - [X] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/alex-ranieri/viper) assembly pipeline  is planned.
  - [X] Upgrade datasets to ensure compatibility with Nextclade V3.
  - [ ] Add lineage cladogram for better lineage system visualization. 
 
