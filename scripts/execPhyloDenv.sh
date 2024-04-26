@@ -131,7 +131,7 @@ echo "Command executed:"
 echo "augur translate --tree ${OUTPUT}_tree/${OUTPUT}_refinedTree.nwk --ancestral-sequences ${OUTPUT}_tree/${OUTPUT}_nt_muts.json --reference-sequence $REFERENCE_SEQUENCE --output-node-data ${OUTPUT}_tree/${OUTPUT}_aa_muts.json"
 
 # Command 6: augur clades
-echo "Defining genotype clades according to Trevor's table..."
+echo "Defining genotype clades according to Nextstrain Dengue mutation table (https://github.com/nextstrain/dengue/blob/main/phylogenetic/config/clades_genotypes.tsv)"
 augur clades --tree ${OUTPUT}_tree/${OUTPUT}_refinedTree.nwk --mutations ${OUTPUT}_tree/${OUTPUT}_aa_muts.json ${OUTPUT}_tree/${OUTPUT}_nt_muts.json ${OUTPUT}_tree/${OUTPUT}_branch-lengths.json --clade /home/james_pereira/drdengue/pipelinePhyloReconstruction/designation_files/mutations_genotypes.tsv --output-node-data ${OUTPUT}_tree/genotypes.json --membership-name clade_membership --label-name clade
 
 # Command 7: augur clades for lineages
