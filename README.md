@@ -1,4 +1,4 @@
-# Dynamic DEVILS (Dengue Evolutionary Viral Intra-genotype Lineage System) - A Systematic Lineage Classification Below the Genotype Level for Dengue Serotypes (1, 2, 3 and 4)
+# DyDEVILS (Dynamic Dengue Evolutionary Viral Intra-genotype Lineage System) - A Systematic Lineage Classification Below the Genotype Level for Dengue Serotypes (1, 2, 3 and 4)
 
 This repository contains the result of using a semi-automatic workflow for classifying Dengue virus (DENV) based on complete genome sequences. It addresses the current limitations in sub-genotype classification, offering a more granular and standardized system compared to traditional methods.
 Check our preprint at https://doi.org/10.1101/2024.03.25.586629
@@ -22,7 +22,7 @@ Users can propose new lineages [following these steps](proposing-new-lineages-gu
 
  ## Copyright and licence
 
-Dynamic DEVILS was developed by [CeVIVAS](https://bv.fapesp.br/en/auxilios/110575/continuous-improvement-of-vaccines-center-for-viral-surveillance-and-serological-assessment-cevivas/) bioinformatics team at the Butantan Institute:
+DyDEVILS was developed by [CeVIVAS](https://bv.fapesp.br/en/auxilios/110575/continuous-improvement-of-vaccines-center-for-viral-surveillance-and-serological-assessment-cevivas/) bioinformatics team at the Butantan Institute:
 * James Siqueira Pereira
 * Vinicius Carius De Souza
 * Gabriela Ribeiro
@@ -36,9 +36,9 @@ Suppervised by:
 * Maria Carolina Quartim Barbosa Elias Sabbaga
 * Sandra Coccuzzo Sampaio 
 
-Dynamic DEVILS was developed using free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+DyDEVILS was developed using free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
-Dynamic DEVILS is distributed in the hope that it will be useful, but **without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose**. See the GNU General Public License for more details: http://www.gnu.org/licenses/.
+DyDEVILS is distributed in the hope that it will be useful, but **without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose**. See the GNU General Public License for more details: http://www.gnu.org/licenses/.
 
 ## Acknowledgements
 Funding for this work was provided by Fundação Butantan and the São Paulo Research Foundation (FAPESP) through grant number 21/11944-6, titled "Continuous improvement of vaccines: Center for Viral Surveillance and Serological Assessment (CeVIVAS)". We express our sincere gratitude to all researchers who deposited their sequences on GISAID, particularly those affiliated with the Central Public Health Laboratories (LACEN) from the Brazilian States of Alagoas, Minas Gerais, Pará, and Paraná. We are also grateful to São Paulo City Hall. These partners are instrumental to the success of the CeVIVAS project.
