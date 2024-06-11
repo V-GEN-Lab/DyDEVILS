@@ -1,6 +1,6 @@
 # Guideline for Proposing New Dengue Virus Lineages
 
-This guide has been prepared to assist researchers and users of the [denvLineages](https://github.com/alex-ranieri/denvLineages) classification system. It is especially useful for those who encounter clusters of sequences that, meeting the pre-established parameters outlined below, can be designated as new lineages.
+This guide has been prepared to assist researchers and users of the [DyDEVILS](https://github.com/V-GEN-Lab/DyDEVILS/) classification system. It is especially useful for those who encounter clusters of sequences that, meeting the pre-established parameters outlined below, can be designated as new lineages.
 
 - A grouping of at least 10 samples.
 - The branch must contain at least one amino acid mutation.
@@ -94,7 +94,7 @@ Considering that, in the previous example, the fictional sequences were assigned
 
 ### 2.4: Annotation of the Generated Tree with Autolin
 
-- Execute the [customized Autolin script](https://github.com/alex-ranieri/denvLineages/blob/main/scripts/annotate_json.py) with the same parameters:
+- Execute the [customized Autolin script](https://github.com/V-GEN-Lab/DyDEVILS/blob/main/scripts/annotate_json_custom.py) with the same parameters:
 
 ``` 
 python annotate_json.py -i nextclade.auspice.json -o nextclade.auspice_annotated.json -m -f 1 -s 10 -d 1 -c 90
@@ -117,13 +117,11 @@ python annotate_json.py -i nextclade.auspice.json -o nextclade.auspice_annotated
 - With these steps, you should be able to identify and gather evidence to designate a possible new lineage of the dengue virus according to the established criteria.
 
 ## Step 3: Classification System Update
-After identifying a possible new circulating lineage of the dengue virus, we request that the user create an "issue" on [denvLineages GitHub page](https://github.com/alex-ranieri/denvLineages/issues), providing the following information gathered during the lineage verification process:
+After identifying a possible new circulating lineage of the dengue virus, we request that the user create an "issue" on [DyDEVILS GitHub page](https://github.com/V-GEN-Lab/DyDEVILS/issues), providing the following information gathered during the lineage verification process:
 
 - Identifier of the genomic sequences used (GenBank or GISAID EpiArbo).
 - Highlight collection date and isolation location.
 - Identification of the ancestral annotation to the lineage to be established; in the example cited, it would be the information 4II.A.
 - Amino acid mutations found in the branch.
 
-<br>
-
-    The classifier will be updated regularly, the frequency of which will be determined, ensuring its representativeness for the currently circulating lineages.
+The classifier will be updated regularly, the frequency of which will be determined, ensuring its representativeness for the currently circulating lineages.
