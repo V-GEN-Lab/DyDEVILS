@@ -13,12 +13,25 @@ Users can download the datasets from this repository, located in the folder `Nex
 ## Guideline to propose new lineages
 Users can propose new lineages [following these steps](proposing-new-lineages-guideline/README.md).
 
+## Current Dengue Virus Lineage System
+- DENV-1 and DENV-2:
+
+<img src="images/cladogram_denv1_2.png" width="500" style="display: block; margin: 0 auto;"/>
+
+<br>
+
+- DENV-3 and DENV-4:
+
+<img src="images/cladogram_denv3_4.png" width="500" style="display: block; margin: 0 auto;"/>
+
+<br>
+
 ## Future implementations
 
  - [X] Apply the proposed DENV lineage classification system to DENV-3 and DENV-4. This expansion will create a comprehensive framework for DENV lineage designation encompassing all four serotypes.
  - [X] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/alex-ranieri/viper) assembly pipeline  is planned.
  - [X] Upgrade datasets to ensure compatibility with Nextclade V3.
- - [ ] Add lineage cladogram for better lineage system visualization. 
+ - [X] Add lineage cladogram for better lineage system visualization. 
 
  ## Copyright and licence
 
