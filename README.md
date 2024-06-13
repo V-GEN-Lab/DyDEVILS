@@ -5,7 +5,7 @@ Check our preprint at https://doi.org/10.1101/2024.03.25.586629
 
 ## Using Nextclade web app to assign lineages
 
-To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV1), [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV2), [DENV-3](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV3), and [DENV-4](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV4) were constructed.
+To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/V-GEN-Lab/DyDEVILS/tree/main/Nextclade_V3_data/DENV1), [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/V-GEN-Lab/DyDEVILS/tree/main/Nextclade_V3_data/DENV2), [DENV-3](https://clades.nextstrain.org/?dataset-url=https://github.com/V-GEN-Lab/DyDEVILS/tree/main/Nextclade_V3_data/DENV3), and [DENV-4](https://clades.nextstrain.org/?dataset-url=https://github.com/V-GEN-Lab/DyDEVILS/tree/main/Nextclade_V3_data/DENV4) were constructed.
 
 ## Downloading dataset to be used with Nextclade CLI
 Users can download the datasets from this repository, located in the folder `Nextclade_V3_data`, to perform offline analysis using Nextclade CLI V3.3.1.
