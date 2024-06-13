@@ -29,7 +29,7 @@ Users can propose new lineages [following these steps](proposing-new-lineages-gu
 ## Future implementations
 
  - [X] Apply the proposed DENV lineage classification system to DENV-3 and DENV-4. This expansion will create a comprehensive framework for DENV lineage designation encompassing all four serotypes.
- - [X] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/alex-ranieri/viper) assembly pipeline  is planned.
+ - [X] Integration with the Viral Identification Pipeline for Emergency Response [(VIPER)](https://github.com/V-GEN-Lab/viper) assembly pipeline  is planned.
  - [X] Upgrade datasets to ensure compatibility with Nextclade V3.
  - [X] Add lineage cladogram for better lineage system visualization. 
 
